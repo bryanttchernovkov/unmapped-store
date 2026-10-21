@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/bryanttchernovkov/unmapped/main/schema/store-v1/catalogue.json
+# The universes the Unmapped Marketplace offers. Each entry points at a GitHub repo whose releases
+# carry <id>-<tag>.zip; see README.md for how to add one.
+format: 1
+universes: []
