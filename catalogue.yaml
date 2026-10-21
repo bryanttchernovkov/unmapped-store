@@ -2,4 +2,11 @@
 # The universes the Unmapped Marketplace offers. Each entry points at a GitHub repo whose releases
 # carry <id>-<tag>.zip; see README.md for how to add one.
 format: 1
-universes: []
+universes:
+  - id: graystone
+    name: Graystone
+    tagline: Crime is down in Graystone. Nobody pretends to wonder why.
+    repo: bryanttchernovkov/graystone
+    cover: covers/graystone.jpg
+    maturity: mature
+    format: 2
